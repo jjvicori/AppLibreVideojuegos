@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "58189996078",
+    "firebase_url": "https://videojuegos3-cd6ad.firebaseio.com",
+    "project_id": "videojuegos3-cd6ad",
+    "storage_bucket": "videojuegos3-cd6ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58189996078:android:9fd1a03e976a8a5c0cffbf",
+        "android_client_info": {
+          "package_name": "com.example.appkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58189996078-3c6bl0ltvaui3836l5a91rti0pra1lff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrXv4Vw2r-vh2ZAjIhSjhKvMCyaXcaXsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58189996078-3c6bl0ltvaui3836l5a91rti0pra1lff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58189996078:android:312aa3e043f175f20cffbf",
+        "android_client_info": {
+          "package_name": "com.example.appvideojuegosfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58189996078-3c6bl0ltvaui3836l5a91rti0pra1lff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrXv4Vw2r-vh2ZAjIhSjhKvMCyaXcaXsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58189996078-3c6bl0ltvaui3836l5a91rti0pra1lff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58189996078:android:be3c068bc96a1c720cffbf",
+        "android_client_info": {
+          "package_name": "com.example.jose.videojuegos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58189996078-3c6bl0ltvaui3836l5a91rti0pra1lff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrXv4Vw2r-vh2ZAjIhSjhKvMCyaXcaXsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58189996078-3c6bl0ltvaui3836l5a91rti0pra1lff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
